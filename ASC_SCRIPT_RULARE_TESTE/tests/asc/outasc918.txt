@@ -1,0 +1,4 @@
+switch malitios index 0: switch index 2; host index 3; controller index 8; switch malitios index 10; switch malitios index 11; switch index 12; 
+switch malitios index 5: switch index 1; switch index 2; host index 4; switch malitios index 5; host index 7; switch index 12; 
+switch malitios index 10: switch malitios index 0; switch index 1; switch index 2; host index 4; host index 7; host index 9; switch malitios index 10; switch malitios index 11; 
+switch malitios index 11: switch malitios index 0; switch index 2; host index 6; controller index 8; switch malitios index 10; switch malitios index 11; switch index 12; 

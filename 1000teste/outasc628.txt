@@ -1,0 +1,1 @@
+switch malitios index 2: controller index 0; 

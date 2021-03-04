@@ -1,0 +1,2 @@
+switch malitios index 0: host index 1; 
+switch malitios index 11: switch index 5; 

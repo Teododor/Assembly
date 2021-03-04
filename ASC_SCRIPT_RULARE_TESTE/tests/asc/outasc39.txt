@@ -1,0 +1,2 @@
+switch malitios index 0: 
+switch malitios index 3: 

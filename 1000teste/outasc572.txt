@@ -1,0 +1,2 @@
+host index 4; host index 7; host index 10; host index 11; host index 12; host index 6; 
+Yes

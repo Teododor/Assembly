@@ -1,0 +1,29 @@
+Toate returnurile din proceduri se fac prin intermediul registrului %eax.
+
+1. Procedura care primeste ca argument un numar natural si care intoarce cea mai mica putere a lui 2, mai mare decat numarul dat.
+15 -> 4 pentru ca 2^4 (=16) >= 15
+32 -> 5 pentru ca 2^5 (=32) >= 32
+59 -> 6 pentru ca 2^6 (=64) >= 59
+
+2. Procedura care primeste un numar natural si care intoarce numarul de biti egali cu 1 din reprezentarea binara.
+7  -> 3 
+10 -> 2 
+
+3. Procedura care primeste un numar natural si care intoarc
+3. Procedura care primeste un numar natural si care intoarce in %eax valoarea 1 daca numarul dat ca argument este palindrom, respectiv 0, altfel.
+1331 -> 1 
+272 -> 1
+27 -> 0
+
+4. Procedura care primeste un numar natural si care afiseaza pe ecran toti divizorii numarului dat ca argument.
+4 -> 1, 2, 4
+13 -> 1, 13
+28 -> 1, 2, 4, 7, 14, 28
+5. Procedura care primeste un numar natural n si intoarce al n-lea termen al sirului lui Fibonacci. (de la 0 1)
+n = 0 -> 0
+n = 1 -> 1 
+n = 2 -> 1 
+n = 3 -> 2 
+n = 4 -> 3 
+n = 5 -> 5
+n = 6 -> 8 ...

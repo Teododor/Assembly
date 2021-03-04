@@ -1,0 +1,1 @@
+switch malitios index 9: switch index 0; 

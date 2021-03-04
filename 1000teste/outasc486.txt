@@ -1,0 +1,5 @@
+switch malitios index 1: switch index 4; switch index 8; switch malitios index 10; switch index 12; host index 17; 
+switch malitios index 7: host index 0; host index 2; host index 3; switch index 4; switch index 6; switch malitios index 7; host index 9; switch malitios index 11; switch index 12; switch index 14; 
+switch malitios index 10: switch malitios index 1; host index 2; host index 3; switch index 4; switch index 12; switch index 14; switch malitios index 15; host index 16; 
+switch malitios index 11: host index 3; switch index 4; switch index 6; switch malitios index 7; switch index 8; host index 9; switch index 12; host index 13; switch index 14; switch malitios index 15; host index 16; 
+switch malitios index 15: host index 2; host index 3; switch index 6; host index 9; switch malitios index 10; switch malitios index 11; switch index 12; host index 13; switch index 14; switch malitios index 15; 
